@@ -9,3 +9,4 @@ int main()
 	} while(i<='Z');
 
 }
+//output: A E I M Q U Y 
