@@ -8,8 +8,8 @@ int main()
 	{
 	rem=num%10;
 	printf("\nrem:%d",rem);
-    num=num/10;
-    sum++;
+        num=num/10;
+        sum++;
 	}
 	printf("\ntotal no of digit:%d", sum);
 } 
